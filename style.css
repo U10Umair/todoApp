@@ -1,0 +1,37 @@
+.styleButton{
+
+    background-color:  #9c6fdc;
+    border-radius: 20px;
+    padding: 5px;
+    color: white;
+    border: none;
+}
+
+.styleButton:hover{
+    background-color: #f2f2f2;
+    color: #6200ee;
+}
+
+
+
+button{
+     background-color: #9c6fdc;
+    color: white;
+ 
+    padding:15px;
+    border-radius: 20px;
+    border: none;
+}
+
+input{
+  
+    background-color:rgb(211, 190, 190);
+    color: black;
+    padding: 15px;
+    border: none;
+}
+
+button:hover {
+    background-color: #f2f2f2;
+    color: #6200ee;
+}
