@@ -38,3 +38,6 @@ Using this application a user can apply for his vehicle registration in just few
 He can transfer his vehicle to another citizen with in 24 hours.
 
 Anyone can know the name of the owner of a vehicle, this won't require any log in.
+
+# Project's Video Link
+https://youtu.be/jAKGKba1_yU?si=a1wYGDYzNWiLr3XU
